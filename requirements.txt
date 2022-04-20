@@ -1,0 +1,7 @@
+pandas
+streamlit
+Pillow
+webdriver-manager
+pycopy-webbrowser
+python-time
+selenium
